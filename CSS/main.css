@@ -1,0 +1,86 @@
+div{
+  /* background-color: #222831; */
+
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  font-size: 2em;
+  background-color: #222831;
+}
+
+h1{
+margin-top: 50px;
+font-family: 'Mali', cursive;
+font-size: 5.625em;
+color: #00ADB5;
+}
+h2{
+margin-top: 0;
+font-family: 'Noto Sans Thai', sans-serif;
+font-size: 2.5rem;
+color: #00ADB5;
+}
+h3{
+color: #00ADB5;
+}
+.top-container{
+position: relative;
+background-color: #222831;
+padding-top: 100px;
+}
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 50px;
+}
+.middle-container{
+background-color: #393E46;
+}
+.bottom-container{
+background-color: #393E46;
+}
+u {
+  text-decoration: underline;
+}
+
+
+.profile{
+  width: 30%;
+  margin: 100px auto;
+
+}
+.skill{
+width: 30%;
+margin: 100px auto;
+text-align: left;
+}
+.skill-row{
+  width: 30%;
+  margin: 100px auto;
+  text-align: left;
+}
+.html-img{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.java-img{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.descript{
+color: #EEEEEE;
+
+}
+.contact{
+  color: #00ADB5;
+}
